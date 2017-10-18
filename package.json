@@ -1,0 +1,15 @@
+{
+  "name": "record-rtc",
+  "description": "an app that records and downloads video",
+  "version": "0.0.1",
+  "engines": {
+    "npm": "5.4.x"
+  },
+  "scripts": {
+    "start": "node server.js"
+  },
+  "license": "MIT",
+  "dependencies": {
+    "express": "^4.16.2"
+  }
+}
